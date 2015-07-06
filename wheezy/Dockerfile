@@ -24,7 +24,7 @@ RUN apt-get update \
       php5-sqlite\
       php5-tidy\
       php5-xmlrpc\
-      php5-xsl
+      php5-xsl \
       php5-mysql \
       mysql-server \
       mysql-client \
